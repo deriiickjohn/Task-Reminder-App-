@@ -1,0 +1,152 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="Assignment_2.ViewTask"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Assignment_2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <Style TargetType="TextBlock" x:Key="textBlockHeader">
+            <Setter Property="FontSize" Value="30"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="Gray"/>
+        </Style>
+
+        <Style TargetType="Rectangle" x:Key="rectangleDivider">
+            <Setter Property="Fill" Value="#FF8E8E8E"/>
+            <Setter Property="Grid.Column" Value="1"/>
+            <Setter Property="Width" Value="5"/>
+            <Setter Property="Height" Value="500"/>
+            <Setter Property="Grid.RowSpan" Value="3"/>
+        </Style>
+    </Page.Resources>
+    
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/Yellow-background.png" Stretch="UniformToFill" Opacity="0.75"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="1.3*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Column="0" Text="Not Completed" Style="{StaticResource textBlockHeader}"/>
+        <TextBlock Grid.Column="2" Text="Completed" Style="{StaticResource textBlockHeader}" />
+
+        <Rectangle   Style="{StaticResource rectangleDivider}"/>
+
+        <ListView x:ConnectionId='2' x:Name="listViewIncomplete"                                         IsItemClickEnabled="False" Grid.Row="1">
+                <ListView.ItemTemplate>
+                    <DataTemplate                        >
+                    <StackPanel x:ConnectionId='20' Orientation="Horizontal" Margin="10">
+                        <Image x:ConnectionId='21' Width="20"                             VerticalAlignment="Top"/>
+                        
+
+
+                        <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                            <TextBlock x:ConnectionId='25' FontSize="15" TextDecorations="None"                         />
+                            <TextBlock x:ConnectionId='26' FontSize="15" TextDecorations="Underline"                           />
+                            <TextBlock x:ConnectionId='27' FontSize="12" TextDecorations="Underline"                      />
+                           
+                        </StackPanel>
+
+                        <Button Margin="10,-30,0,0" x:Name="buttonDelete" Content ="..." Height="30" VerticalContentAlignment="Top" >
+                            <Button.Flyout>
+                                <MenuFlyout Placement="RightEdgeAlignedTop">
+                                    <MenuFlyoutItem x:ConnectionId='23' Text="Complete"                           />
+                                    <MenuFlyoutItem x:ConnectionId='24' Text="Delete"                           />
+                                </MenuFlyout>
+                            </Button.Flyout>
+                        </Button>
+
+                    </StackPanel>
+
+                 
+
+                   
+                </DataTemplate>
+              
+            </ListView.ItemTemplate>
+            </ListView>
+
+
+       
+        <ListView x:ConnectionId='3' x:Name="listViewComplete"                                      Grid.Row="1" Grid.Column="2" IsItemClickEnabled="False" >
+            <ListView.Background>
+                <ImageBrush/>
+            </ListView.Background>
+            <ListView.ItemTemplate>
+                <DataTemplate                        >
+                    <StackPanel x:ConnectionId='11' Orientation="Horizontal" Margin="10">
+                        <Image x:ConnectionId='12' Width="20"                             VerticalAlignment="Top" />
+                        <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                            <TextBlock x:ConnectionId='16' FontSize="15" TextDecorations="Strikethrough"                         />
+                           
+                                <TextBlock x:ConnectionId='17' FontSize="15" TextDecorations="Underline"                           />
+                                <TextBlock x:ConnectionId='18' FontSize="12" TextDecorations="Underline"                     />
+                           
+                        </StackPanel>
+
+                        <Button Margin="10,-30,0,0" x:Name="buttonDelete2" Content ="..." Height="30" VerticalContentAlignment="Top" >
+                            <Button.Flyout>
+                                <MenuFlyout Placement="RightEdgeAlignedTop">
+                                    <MenuFlyoutItem x:ConnectionId='14' Text="Incomplete"                           />
+                                    <MenuFlyoutItem x:ConnectionId='15' Text="Delete"                           />
+                                </MenuFlyout>
+                            </Button.Flyout>
+                        </Button>
+
+                    </StackPanel>
+
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+
+        <StackPanel  Grid.Row="1" Grid.Column="3">
+
+            <StackPanel Margin="20"  Orientation="Horizontal">
+                <RelativePanel HorizontalAlignment="Left">
+                    <Ellipse x:ConnectionId='8' x:Name="ellipseTotal" Width="100" Height="100" Fill="#FFDE94AF"/>
+                    <TextBlock x:ConnectionId='9' x:Name="textBlockTotal" Text="asd" FontSize="40" RelativePanel.AlignVerticalCenterWith="ellipseTotal" RelativePanel.AlignHorizontalCenterWith="ellipseTotal"/>
+                </RelativePanel>
+                <TextBlock FontWeight="SemiBold" Margin="10,0,0,0" FontSize="20" Text="Total Tasks" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </StackPanel>
+
+
+            <StackPanel Margin="20" Orientation="Horizontal">
+                <RelativePanel HorizontalAlignment="Left">
+                    <Ellipse x:ConnectionId='6' x:Name="ellipseComplete" Width="100" Height="100" Fill="#FF96F095"/>
+                    <TextBlock x:ConnectionId='7' x:Name="textBlockComplete" Text="asd" FontSize="40" RelativePanel.AlignVerticalCenterWith="ellipseComplete" RelativePanel.AlignHorizontalCenterWith="ellipseComplete"/>
+                </RelativePanel>
+                <TextBlock FontWeight="SemiBold" Margin="10,0,0,0" FontSize="20" Text="Complete Tasks" VerticalAlignment="Center" />
+            </StackPanel>
+
+
+
+            <StackPanel Margin="20" Orientation="Horizontal">
+                <RelativePanel HorizontalAlignment="Left">
+                    <Ellipse x:ConnectionId='4' x:Name="ellipseIncomplete" Width="100" Height="100" Fill="#FFD0E8B6"/>
+                    <TextBlock x:ConnectionId='5' x:Name="textBlockIncomplete" Text="asd" FontSize="40" RelativePanel.AlignVerticalCenterWith="ellipseIncomplete" RelativePanel.AlignHorizontalCenterWith="ellipseIncomplete"/>
+                </RelativePanel>
+                <TextBlock FontWeight="SemiBold" Margin="10,0,0,0" FontSize="20" Text="Incomplete Tasks" VerticalAlignment="Center"/>
+            </StackPanel>
+
+        </StackPanel>
+
+    </Grid>
+</Page>
+

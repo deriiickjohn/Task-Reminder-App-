@@ -1,0 +1,205 @@
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\App.xbf
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\Main.xbf
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\Registration.xbf
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\Assignment 2.xr.xml
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\Assignment 2.exe
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\Assignment 2.pdb
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\resources.pri
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\AppxManifest.xml
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\Core\Assignment 2.exe
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\Assignment 2.build.appxrecipe
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\System.Runtime.dll
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Assignment 2.csprojAssemblyReference.cache
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\App.g.i.cs
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\App.g.cs
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Main.g.i.cs
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Main.g.cs
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Registration.g.i.cs
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Registration.g.cs
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\App.xaml
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Main.xaml
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Registration.xaml
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\App.xbf
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Main.xbf
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Registration.xbf
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Assignment 2.csproj.CopyComplete
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Assignment 2.exe
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Assignment 2.pdb
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\priconfig.xml
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\resources.resfiles
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\pri.resfiles
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\qualifiers.txt
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112174540000000.json
+C:\Users\30029307\source\repos\Assignment 2\bin\x86\Debug\Login.xbf
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Login.g.i.cs
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Login.g.cs
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Login.xaml
+C:\Users\30029307\source\repos\Assignment 2\obj\x86\Debug\Login.xbf
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\App.xbf
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\Login.xbf
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\Registration.xbf
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\Assignment 2.xr.xml
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\Assignment 2.exe
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\Assignment 2.pdb
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\resources.pri
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\AppxManifest.xml
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\Core\Assignment 2.exe
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\Assignment 2.build.appxrecipe
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\System.Runtime.dll
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\App.g.i.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\App.g.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Login.g.i.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Login.g.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Registration.g.i.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Registration.g.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\App.xaml
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Login.xaml
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Registration.xaml
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\App.xbf
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Login.xbf
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Registration.xbf
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Assignment 2.csproj.CopyComplete
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Assignment 2.exe
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Assignment 2.pdb
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\priconfig.xml
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\resources.resfiles
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\pri.resfiles
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\qualifiers.txt
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112318540000000.json
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\MainPage.xaml
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\MainPage.xbf
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\MainPage.xbf
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\MainPage.g.cs
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\AddTask.xbf
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\ViewTask.xbf
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\AddTask.g.i.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\AddTask.g.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\ViewTask.g.i.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\ViewTask.g.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\AddTask.xaml
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\ViewTask.xaml
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\AddTask.xbf
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\ViewTask.xbf
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\App.xbf
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\AddTask.xbf
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\Login.xbf
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\MainPage.xbf
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\Registration.xbf
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\ViewTask.xbf
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\Assignment 2.xr.xml
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\Assignment 2.exe
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\Assignment 2.pdb
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\resources.pri
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\AppxManifest.xml
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\Core\Assignment 2.exe
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\Assignment 2.build.appxrecipe
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\System.Runtime.dll
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\App.g.i.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\App.g.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\AddTask.g.i.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\AddTask.g.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Login.g.i.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Login.g.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\MainPage.g.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Registration.g.i.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Registration.g.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\ViewTask.g.i.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\ViewTask.g.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\App.xaml
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\AddTask.xaml
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Login.xaml
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\MainPage.xaml
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Registration.xaml
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\ViewTask.xaml
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\App.xbf
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\AddTask.xbf
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Login.xbf
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\MainPage.xbf
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Registration.xbf
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\ViewTask.xbf
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Assignment 2.csproj.CopyComplete
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Assignment 2.exe
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Assignment 2.pdb
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\priconfig.xml
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\resources.resfiles
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\pri.resfiles
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\qualifiers.txt
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112174540000000.json
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\StartPage.xbf
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\StartPage.g.i.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\StartPage.g.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\StartPage.xaml
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\StartPage.xbf
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\StartPage.xbf
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\StartPage.g.i.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\StartPage.g.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\StartPage.xaml
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\StartPage.xbf
+C:\Users\Derick\source\repos\Assignment2\bin\x86\Debug\Drink.xbf
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Drink.g.i.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Drink.g.cs
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Drink.xaml
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Drink.xbf
+C:\Users\30029307\source\repos\Assignment2\bin\x86\Debug\Drink.xbf
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Drink.g.i.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Drink.g.cs
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Drink.xaml
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Drink.xbf
+C:\Users\30029307\source\repos\Assignment2\obj\x86\Debug\Assignment 2.csprojAssemblyReference.cache
+C:\Users\Derick\source\repos\Assignment2\obj\x86\Debug\Assignment 2.csprojAssemblyReference.cache
